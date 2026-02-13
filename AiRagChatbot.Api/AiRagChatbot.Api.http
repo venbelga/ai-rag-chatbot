@@ -1,0 +1,6 @@
+@AiRagChatbot.Api_HostAddress = http://localhost:5076
+
+GET {{AiRagChatbot.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
