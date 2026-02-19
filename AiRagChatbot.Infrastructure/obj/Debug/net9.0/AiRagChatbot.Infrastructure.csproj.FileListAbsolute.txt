@@ -1,0 +1,12 @@
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\bin\Debug\net9.0\AiRagChatbot.Infrastructure.deps.json
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\bin\Debug\net9.0\AiRagChatbot.Infrastructure.dll
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\bin\Debug\net9.0\AiRagChatbot.Infrastructure.pdb
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\obj\Debug\net9.0\AiRagChatbot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\obj\Debug\net9.0\AiRagChatbot.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\obj\Debug\net9.0\AiRagChatbot.Infrastructure.AssemblyInfo.cs
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\obj\Debug\net9.0\AiRagChatbot.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\obj\Debug\net9.0\AiRagChatbot.Infrastructure.sourcelink.json
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\obj\Debug\net9.0\AiRagChatbot.Infrastructure.dll
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\obj\Debug\net9.0\refint\AiRagChatbot.Infrastructure.dll
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\obj\Debug\net9.0\AiRagChatbot.Infrastructure.pdb
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Infrastructure\obj\Debug\net9.0\ref\AiRagChatbot.Infrastructure.dll

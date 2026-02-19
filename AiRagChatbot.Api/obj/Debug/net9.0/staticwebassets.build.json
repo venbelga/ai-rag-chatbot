@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9Oe2tRDggr5WofdK8yaEM94uxPVTXMH0ZgCAxzyzYTw=",
+  "Source": "AiRagChatbot.Api",
+  "BasePath": "_content/AiRagChatbot.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
