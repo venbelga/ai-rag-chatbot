@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiRagChatbot.Domain", "AiRagChatbot.Domain\AiRagChatbot.Domain.csproj", "{4E270C97-7CE3-4098-806F-489BF0707026}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiRagChatbot.Application", "AiRagChatbot.Application\AiRagChatbot.Application.csproj", "{2C01BD77-56BC-4043-A903-7C5D1FE2E3FE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4E270C97-7CE3-4098-806F-489BF0707026} = {4E270C97-7CE3-4098-806F-489BF0707026}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiRagChatbot.Infrastructure", "AiRagChatbot.Infrastructure\AiRagChatbot.Infrastructure.csproj", "{0903EEFC-BF47-45A8-BBD7-713086312326}"
 EndProject

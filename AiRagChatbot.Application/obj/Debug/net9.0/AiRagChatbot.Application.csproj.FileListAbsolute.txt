@@ -10,3 +10,7 @@ C:\Projetos\ai-rag-chatbot\AiRagChatbot.Application\obj\Debug\net9.0\AiRagChatbo
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Application\obj\Debug\net9.0\refint\AiRagChatbot.Application.dll
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Application\obj\Debug\net9.0\AiRagChatbot.Application.pdb
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Application\obj\Debug\net9.0\ref\AiRagChatbot.Application.dll
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Application\bin\Debug\net9.0\AiRagChatbot.Domain.dll
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Application\bin\Debug\net9.0\AiRagChatbot.Domain.pdb
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Application\obj\Debug\net9.0\AiRagChatbot.Application.csproj.AssemblyReference.cache
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Application\obj\Debug\net9.0\AiRagCha.725F66B5.Up2Date
