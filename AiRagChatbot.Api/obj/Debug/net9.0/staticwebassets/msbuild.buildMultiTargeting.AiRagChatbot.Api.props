@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\AiRagChatbot.Api.props" />
-</Project>

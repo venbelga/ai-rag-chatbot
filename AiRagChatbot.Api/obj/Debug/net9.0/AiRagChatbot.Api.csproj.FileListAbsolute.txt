@@ -20,12 +20,6 @@ C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\scopedcss\bundle\Ai
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets.build.json
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets.development.json
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets\msbuild.AiRagChatbot.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets\msbuild.AiRagChatbot.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.AiRagChatbot.Api.props
-C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AiRagChatbot.Api.props
-C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AiRagChatbot.Api.props
-C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\AiRagCha.18ECFE5E.Up2Date
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\AiRagChatbot.Api.dll
@@ -33,3 +27,9 @@ C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\refint\AiRagChatbot
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\AiRagChatbot.Api.pdb
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\AiRagChatbot.Api.genruntimeconfig.cache
 C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\ref\AiRagChatbot.Api.dll
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Projetos\ai-rag-chatbot\AiRagChatbot.Api\obj\Debug\net9.0\swae.build.ex.cache

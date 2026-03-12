@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "9Oe2tRDggr5WofdK8yaEM94uxPVTXMH0ZgCAxzyzYTw=",
-  "Source": "AiRagChatbot.Api",
-  "BasePath": "_content/AiRagChatbot.Api",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"z8p7SblucznS2lfwo+e3SC9YqTDou1ZZsRj6MM/rS8Q=","Source":"AiRagChatbot.Api","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "AiRagChatbot.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "AiRagChatbot.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AiRagChatbot.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AiRagChatbot.Application.dll": {}
+        }
+      },
+      "AiRagChatbot.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/AiRagChatbot.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AiRagChatbot.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AiRagChatbot.Application/1.0.0": {
+      "type": "project",
+      "path": "../AiRagChatbot.Application/AiRagChatbot.Application.csproj",
+      "msbuildProject": "../AiRagChatbot.Application/AiRagChatbot.Application.csproj"
+    },
+    "AiRagChatbot.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AiRagChatbot.Domain/AiRagChatbot.Domain.csproj",
+      "msbuildProject": "../AiRagChatbot.Domain/AiRagChatbot.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "AiRagChatbot.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\venan\\.nuget\\packages\\": {},
@@ -39,7 +76,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\ai-rag-chatbot\\AiRagChatbot.Application\\AiRagChatbot.Application.csproj": {
+              "projectPath": "C:\\Projetos\\ai-rag-chatbot\\AiRagChatbot.Application\\AiRagChatbot.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -52,7 +93,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -73,7 +114,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

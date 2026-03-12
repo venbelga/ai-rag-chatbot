@@ -1,19 +1,31 @@
-﻿using AiRagChatbot.Domain.Evolution;
-
+﻿using AiRagChatbot.Application.DTOs;
+using AiRagChatbot.Application.Interfaces;
 namespace AiRagChatbot.Application.UseCases
 {
-    public class EvaluateAnswerUseCase
+    public class EvaluateAnswerUseCase : IAnswerEvaluator
     {
-        private readonly IAnswerEvaluator _evaluator;
+        private readonly ISemanticSimilarityService _similarityService;
 
-        public EvaluateAnswerUseCase(IAnswerEvaluator evaluator)
+        public EvaluateAnswerUseCase(ISemanticSimilarityService similarityService)
         {
-            _evaluator = evaluator;
+            _similarityService = similarityService;
         }
 
-        public EvaluationResult Execute(string correctAnswer, string studentAnswer)
+        public AnswerEvaluationResponse Evaluate(AnswerEvaluationRequest request)
         {
-            return _evaluator.Evaluate(correctAnswer, studentAnswer);
+            var score = _similarityService.CalculateSimilarity(
+                request.ExpectedAnswer,
+                request.UserAnswer
+            );
+
+            return new AnswerEvaluationResponse
+            {
+                Score = score,
+                IsCorrect = score >= 0.7,
+                Feedback = score >= 0.7
+                    ? "Resposta semanticamente correta."
+                    : "Resposta distante da esperada."
+            };
         }
     }
 }
