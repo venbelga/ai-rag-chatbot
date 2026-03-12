@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiRagChatbot.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a388aff91a95501784fbe8af5f63f829575015d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0f434e107dfa26db1f40268291acf6b2e81f969")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiRagChatbot.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiRagChatbot.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
